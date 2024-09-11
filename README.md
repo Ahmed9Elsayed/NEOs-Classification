@@ -63,7 +63,6 @@ You can install the dependencies using:
 
 - **Best Performing Model:** Random Forest Classifier with an accuracy of **99%** and an ROC-AUC score of **1**.
 	- To ensure that RF isn't  overfitting the data, i calculated train and test loss and the difference between them was 0.0292, so there is no overfitting
-- **Important Features:** Minimum Orbit Intersection Distance (MOID), Absolute Magnitude (H), and Relative Velocity were the most important features in determining the risk level of celestial bodies.
 
 ## **Conclusion**
 
